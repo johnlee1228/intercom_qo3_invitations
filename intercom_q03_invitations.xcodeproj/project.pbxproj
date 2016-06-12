@@ -13,6 +13,7 @@
 		52E7A3361D0D98CC0057DFF0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52E7A3341D0D98CC0057DFF0 /* Main.storyboard */; };
 		52E7A3381D0D98CC0057DFF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52E7A3371D0D98CC0057DFF0 /* Assets.xcassets */; };
 		52E7A33B1D0D98CC0057DFF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52E7A3391D0D98CC0057DFF0 /* LaunchScreen.storyboard */; };
+		52E7A3431D0D9AF80057DFF0 /* gistfile1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 52E7A3421D0D9AF80057DFF0 /* gistfile1.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		52E7A3371D0D98CC0057DFF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52E7A33A1D0D98CC0057DFF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		52E7A33C1D0D98CC0057DFF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52E7A3421D0D9AF80057DFF0 /* gistfile1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gistfile1.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				52E7A32F1D0D98CC0057DFF0 /* AppDelegate.m */,
 				52E7A3311D0D98CC0057DFF0 /* ViewController.h */,
 				52E7A3321D0D98CC0057DFF0 /* ViewController.m */,
+				52E7A3421D0D9AF80057DFF0 /* gistfile1.txt */,
 				52E7A3341D0D98CC0057DFF0 /* Main.storyboard */,
 				52E7A3371D0D98CC0057DFF0 /* Assets.xcassets */,
 				52E7A3391D0D98CC0057DFF0 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 				52E7A33B1D0D98CC0057DFF0 /* LaunchScreen.storyboard in Resources */,
 				52E7A3381D0D98CC0057DFF0 /* Assets.xcassets in Resources */,
 				52E7A3361D0D98CC0057DFF0 /* Main.storyboard in Resources */,
+				52E7A3431D0D9AF80057DFF0 /* gistfile1.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
