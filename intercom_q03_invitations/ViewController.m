@@ -43,6 +43,7 @@
                                        self.view.bounds.size.width, self.view.bounds.size.height - 20.0f)];
     textView.text = [self displayStringFromUserList:userList];
     textView.editable = NO;
+    textView.font = [UIFont systemFontOfSize:15.0f];
     
     
     [self.view addSubview:textView];
